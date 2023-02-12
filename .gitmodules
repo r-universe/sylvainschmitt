@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rcontroll"]
+	path = rcontroll
+	url = https://github.com/sylvainschmitt/rcontroll
+	shallow = true
+	registered = true
 [submodule "SSDM"]
 	path = SSDM
 	url = https://github.com/sylvainschmitt/ssdm
