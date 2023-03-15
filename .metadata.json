@@ -1,10 +1,10 @@
 [
   {
-    "package": "rcontroll",
+    "package": "SSDM",
     "oncran": true
   },
   {
-    "package": "SSDM",
+    "package": "rcontroll",
     "oncran": true
   }
 ]
