@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "rcontroll"]
-	path = rcontroll
-	url = https://github.com/sylvainschmitt/rcontroll
 [submodule "SSDM"]
 	path = SSDM
 	url = https://github.com/sylvainschmitt/ssdm
+[submodule "rcontroll"]
+	path = rcontroll
+	url = https://github.com/sylvainschmitt/rcontroll
