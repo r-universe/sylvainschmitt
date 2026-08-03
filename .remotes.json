@@ -1,0 +1,14 @@
+[
+  {
+    "package": "lidR",
+    "url": "https://github.com/r-lidar/lidR",
+    "via": ["rcontroll"],
+    "from": "rcontroll"
+  },
+  {
+    "package": "rlas",
+    "url": "https://github.com/r-lidar/rlas",
+    "via": ["rcontroll"],
+    "from": "rcontroll"
+  }
+]

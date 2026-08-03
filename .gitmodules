@@ -5,6 +5,14 @@
 [submodule "SSDM"]
 	path = SSDM
 	url = https://github.com/sylvainschmitt/ssdm
+[submodule "lidR"]
+	path = lidR
+	url = https://github.com/r-lidar/lidR
+	registered = false
 [submodule "rcontroll"]
 	path = rcontroll
 	url = https://github.com/sylvainschmitt/rcontroll
+[submodule "rlas"]
+	path = rlas
+	url = https://github.com/r-lidar/rlas
+	registered = false
